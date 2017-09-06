@@ -1,7 +1,11 @@
+---
 Title: Software is eating the world and reprogramming democracy
 Author: Jaime Gomez-Ramirez
 Date:	September 3, 2017
+---
 
+# Software is eating the world and reprogramming democracy
+#### _Jaime Gomez-Ramirez_
 
 Democracy, the government of the majority typically though elected representatives, is undergoing a major crisis.
 Human societies have experimented with democracy since at least the fifth century BC in the polis of Athens.
