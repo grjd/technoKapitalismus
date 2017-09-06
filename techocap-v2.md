@@ -31,8 +31,8 @@ Financial capitalism and democratic governance in its actual form are intrinsica
 
 Market capitalism has the upper hand over politics. This is _by design_ because today's democratic governance can't possibly keep pace with the speed and complexity of financial transactions. The ideology that politics can and must tame financial capitalism is naive and to a greater extent delusional.
 Along these lines social theorist refer to ["time and space social compression"](http://routledgesoc.com/category/profile-tags/time-space-compression), ["empire of speed"](http://www.psupress.org/books/titles/978-0-271-03416-4.html) or ["desynchromization"](http://onlinelibrary.wiley.com/doi/10.1111/1467-8675.00309/abstract).
-The idea of desynchronization is particularly woth mentioning. The faster the system is the less predictable it becomes, because it will less rarely repeat itself.
-If financial capitalism had to impersonated it would be a playboy with a strenuous life style; his past is a bad predictor of his future. Democratic governance, on the other hand, would a priest in rural Spain who tends to follow the same pattern, history repeats itself.
+The idea of desynchronization is particularly worth mentioning. The faster the system is the less predictable it becomes, because it will less rarely repeat itself (desynchronized).
+If financial capitalism had to impersonated it would be a playboy with a strenuous life style; his past is a bad predictor of his future. Democratic governance, on the other hand, would a priest in rural Spain who tends to follow the same pattern, history repeats itself (synchronized).
 
 The fundamental problem of modern financial systems is that they are non self-regulating systems and left to their own devices will inevitably create debt in excessive quantities. [Adair Turner](http://press.princeton.edu/titles/10546.html) convincingly argues that financial stability in modern economies lies in the intersection between the infinite capacity of banks to create new credit, money, and purchasing power, and the scarce supply of irreproducible urban land.
 
